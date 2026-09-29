@@ -33,5 +33,5 @@ Docker · Docker Compose · Nginx · GitHub Actions · AWS · Linux
 ### Infrastructure & Network
 EC2 · VPC · RDS · ALB · Auto Scaling · CloudWatch · SSH · Tailscale · Cloudflare Tunnel
 
-### AI / Computer Vision
+### AI / Computer Vision (배우는중)
 NumPy · PyTorch · Hugging Face · Object Detection · Object Tracking
